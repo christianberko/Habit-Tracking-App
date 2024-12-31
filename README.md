@@ -1,1 +1,2 @@
-Habit Tracker developed in Flutter for a semster long project. Features adding and deleting tasks
+
+The Simple Habit Tracker is a Flutter application designed to help users manage their daily habits efficiently. It allows users to create, read, update, and delete habits through an intuitive and minimalist interface. Each habit is displayed in a list, where users can mark progress and make adjustments as needed. Data is stored locally using SQLite to ensure offline functionality and reliability. With its clean design and basic CRUD functionality, the app provides a straightforward solution for habit tracking.
